@@ -15,8 +15,7 @@
   },
   "include": [
     "src/**/**.ts",
-    "tests/**/**.ts",
-    "playground/**/**.ts",
+    "tests/**/**.ts"
   ],
   "exclude": ["node_modules"]
 }
