@@ -1,3 +1,3 @@
 export const isPositiveNumber = (value: number): boolean => {
-  return Math.sign(value) === 1;
-};
+  return Math.sign(value) === 1
+}

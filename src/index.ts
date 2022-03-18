@@ -1,1 +1,1 @@
-export * from "./is-positive-number";
+export * from './is-positive-number'
